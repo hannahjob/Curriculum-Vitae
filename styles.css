@@ -1,0 +1,21 @@
+body {
+    background-color: #FDEBF7;
+    font-family: grotesque;
+    font-size: 90%
+      }
+  hr {
+    background-color: white;
+    border-style: none;
+    border-top-style: dotted;
+    border-top-width: 5px;
+    border-top-color: grey;
+    width: 5%;
+    }
+h1 {
+  color: #FC28FB;
+  font-family: cursive;
+  }
+h3 {
+  color: #FC28FB;
+  font-family: cursive;
+}
